@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🏙️ Urban Data Clustering Project
 
 > Applied K-Means and PCA on a synthetic geospatial dataset to identify urban zone archetypes.
@@ -98,3 +99,7 @@ Pipeline([
 ---
 
 *Synthetic dataset generated with `sklearn.datasets.make_blobs` — coordinates inspired by Tunis, Tunisia.*
+=======
+# urban_data_clustering
+Unsupervised ML pipeline applying K-Means clustering and PCA on synthetic urban geospatial data to identify distinct neighborhood archetypes using scikit-learn.
+>>>>>>> 575dd997e6a9bb97f7210ddc7f326c203b9d4128
